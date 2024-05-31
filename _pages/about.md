@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student advised by Prof. Shengshan Hu, Leo Yu Zhang and Dezhong Yao in School of Computer Science and Technology at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn) and  affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn)) Lab, Trustworthy Artificial Intelligence ([T-AI](http://trustai.group)) Group.
+!!!Attention!!!: this page is secret, if you publish this, you may face the legal risk!!! I am currently a Ph.D. student advised by Prof. Shengshan Hu, Leo Yu Zhang and Dezhong Yao in School of Computer Science and Technology at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn) and  affiliated with Creativity, Greatness, Communication, and Love ([CGCL](http://grid.hust.edu.cn)) Lab, Trustworthy Artificial Intelligence ([T-AI](http://trustai.group)) Group.!!!Attention!!!: this page is secret, if you publish this, you may face the legal risk!!!
 
-I am an enthusiastic researcher with a passion for exploring new ideas and pushing the boundaries of knowledge. In addition to my academic pursuits, I am also an avid debater and enjoy participating in debate competitions. I find great satisfaction in the process of thinking critically and exchanging ideas with others, and I believe that this skillset has been invaluable in my pursuit of academic excellence. I am committed to pursuing research that not only advances our understanding of the world around us, but also has the potential to positively impact society at large.
+!!!Attention!!!: this page is secret, if you publish this, you may face the legal risk!!!
+I am an enthusiastic researcher with a passion for exploring new ideas and pushing the boundaries of knowledge. In addition to my academic pursuits, I am also an avid debater and enjoy participating in debate competitions. I find great satisfaction in the process of thinking critically and exchanging ideas with others, and I believe that this skillset has been invaluable in my pursuit of academic excellence. I am committed to pursuing research that not only advances our understanding of the world around us, but also has the potential to positively impact society at large.!!!Attention!!!: this page is secret, if you publish this, you may face the legal risk!!!
 
 Research Interests
 ======
@@ -17,6 +18,7 @@ As a researcher in the field of artificial intelligence (AI), my primary interes
 
 Publication
 ======
+!!!Attention!!!: this page is secret, if you publish this, you may face the legal risk!!!
 - Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, **Ziqi Zhou**, Xianlong Wang, Yanjun Zhang, Chao Chen.
 Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness. **IJCAI**. 2024. [[Code]](https://arxiv.org/abs/2404.11357)[[pdf]](https://arxiv.org/abs/2404.11357)
 - **Ziqi Zhou**, Minghui Li, Wei Liu, Shengshan Hu,  Yechao Zhang, Wei Wan, Lulu Xue, Leo Yu Zhang, Dezhong Yao, Hai Jin.
